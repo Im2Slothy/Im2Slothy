@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Im2Slothy
-- 👀 I’m interested in ... Coding games
+- 👀 I’m interested in ... Coding anything Python related. ( Discord Bots Personally! )
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me: Discord - Slothy#4484
 
