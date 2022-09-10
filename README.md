@@ -10,8 +10,9 @@
 
 
 - 👋 Hi, I’m @Im2Slothy
-- 👀 I’m interested in ... Coding anything Python related. ( Discord Bots Personally! )
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Website and discord bot developement
+- 📖 I currently know Python, Html, (some)JavaScript, and CSS
+- 🌱 I’m currently learning ... C and C#
 - 📫 How to reach me: Discord - Slothy#4484
 
 <!---
