@@ -1,6 +1,5 @@
 ### <samp>&gt; Hi there, I'm <a href="https://im2slothy.github.io/Website/" target="_blank">Chris "Slothy"</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 ___
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Im2Slothy&left_color=green&right_color=red)
 [![Discord Presence](https://lanyard.cnrad.dev/api/346766408274935819)](https://discord.com/users/346766408274935819)
 ___
 **Stuff about me**
