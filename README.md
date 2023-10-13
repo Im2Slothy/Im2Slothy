@@ -13,5 +13,5 @@ ___
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im2slothy&theme=transparent)](https://github.com/anuraghazra/github-readme-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im2Slothy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8/"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im2Slothy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
