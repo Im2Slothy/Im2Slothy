@@ -4,7 +4,7 @@ ___
 ___
 **Stuff about me**
 
-- I’m currently working on something cool, trust! :)
+- Making .lua FiveM Scripts
 - I’m currently learning anything I can learn on [leetcode](https://leetcode.com/Im2Slothy);
 - Ask me about anything, I am happy to help;
 ___
