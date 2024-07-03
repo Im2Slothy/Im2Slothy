@@ -5,6 +5,7 @@ ___
 **Stuff about me**
 
 - Making .lua FiveM Scripts
+- Making Discord bots .py & .js
 - I’m currently learning anything I can learn on [leetcode](https://leetcode.com/Im2Slothy);
 - Ask me about anything, I am happy to help;
 ___
